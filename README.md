@@ -11,4 +11,5 @@
 5. Day14 : 조건에 맞는 행 출력, 시각화
 6. Day15 : 상관관계, pd.cut(), pd.qcut, aplly(사용자 정의 함수), 시각화 
 7. Day16 : 기초통계량 
+8. Day17 : html, css, javascript
 
