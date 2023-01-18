@@ -12,4 +12,6 @@
 6. Day15 : 상관관계, pd.cut(), pd.qcut, aplly(사용자 정의 함수), 시각화 
 7. Day16 : 기초통계량 
 8. Day17 : html, css, javascript
+9. Day18 : html response & header 
+10. Day19 : 웹 스크래핑 위한 기초 지식 
 
