@@ -14,4 +14,7 @@
 8. Day17 : html, css, javascript
 9. Day18 : html response & header 
 10. Day19 : 웹 스크래핑 위한 기초 지식 
+11. Day20 : 네이버 상단매뉴 웹크롤링
+12. Day21 : youtube 랭킹 웹크롤링
+13. Day22 : 음원 사이트 랭킹 (멜론, 벅스, 지니) 
 
